@@ -6,8 +6,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		
-		String name="Gonzalo";
+		String name="Gonzalo y Saul";
 		System.out.println("Bienvenido, "+name);
 	}
-
 }
